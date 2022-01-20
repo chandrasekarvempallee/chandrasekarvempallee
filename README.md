@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @chandrasekarvempallee, Data Evangelist
-- 👀 I’m interested in learning New Technologies, Tools in Data Engg/Science, Politics, Science
-- 🌱 I’m currently learning Python, Ml, Algo DS
-- 💞️ I’m looking to collaborate on Knowledge sharing, Language learning, Tech meetups
+- 🙌 Hi, I’m @ChandrasekarVempallee, Technology professional and Data Evangelist
+- 👋 Posses Web, Databases, Data Engineering, Cloud/open source skill/tool set
+- 👀 Interested to talk and explore New Tech, Project Processes, Tools changes/advancements in Data Engg/Science and beyond
+- 🌱 Currently exploring advancement Python, Py libraries, ML, Algo DS performance/efficience
+- 💞️ happy to collaborate on Cloud, Data Engg, Knowledge sharing and participate in Tech meetups
 
 <!---
 chandrasekarvempallee/chandrasekarvempallee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
